@@ -1,0 +1,37 @@
+body {
+	background-color: #f1f1f1;
+}
+.tabl {
+	float: right;
+	text-align: left;
+	font-weight: bold;
+	font-size: 30px;
+}
+.tabl2 {
+    float: left;
+    font-weight: bold;
+	font-size: 30px;
+
+}
+.tabl3 {
+	float: right;
+	text-align: left;
+	font-weight: bold;
+	font-size: 30px;
+
+}
+.tabl4 {
+    float: left;
+    font-weight: bold;
+	font-size: 30px;
+}
+.h1 {
+	text-align: left;
+	
+	font-weight: bold;
+	font-size: 50px;
+}
+
+
+
+
